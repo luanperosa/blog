@@ -36,3 +36,6 @@ yarn-error.log*
 
 # Unit Tests
 /coverage
+
+# Temporary
+/tmp
