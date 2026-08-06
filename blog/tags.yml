@@ -22,3 +22,8 @@ javascript:
   label: JavaScript
   permalink: /javascript
   description: Posts about JavaScript and web development
+
+networking:
+  label: Networking
+  permalink: /networking
+  description: Posts about networking and how the internet works
